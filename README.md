@@ -1,4 +1,5 @@
-# Projeto Space Cream
+# Project Space Cream
 
-Projeto criado para o curso Explorer da Rocketseat.
-Neste projeto foi utilizado o princpio de mobile first para criar aplicações responsivas, e também foi usado animações em CSS para gerar interação nas imagens dos cards.
+Project developed for the Explorer Course of Rocketseat.
+In this project I used the principle of Mobile First to create responsive applications, and I also used animations in CSS to generate interactions with the cards images.
+
